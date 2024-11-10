@@ -1,6 +1,6 @@
 # God Readme Generator
     ## Description
-    This is a quick readme generator apps. Prompt the user to input info, and write to a readme file automatically. It is very useful.
+    This is a quick readme genarator apps demo. Prompt the user for input and write to the read me file
     
     ## Table of Contents
     - [Installation](#installation)
@@ -11,21 +11,24 @@
     - [Questions](#questions)
 
     ## Installation
-    npm install, npm install inquiry, run the file with node index.js
+    npm install, npm install inquiry, run node index.js
 
     ## Usage
-    The user can input info from node.js java environment without using the browser. It is very convenient. 
+    User is me
 
     ## License
     no license
 
     ## Contributing
-    Any teammates using the apps can request to update the code, once get approve, he can git push to the repository. 
+    Any teammates in the team
 
     ## Tests
-    JUst run node index.js to input the data, and open the readme file to check. 
+    node index.js and check the readme file content
 
     ## Questions
     
-    If you have any questions, feel free to reach out to me at [chaugeorge9@gmail.com](mailto:chaugeorge9@gmail.com).
+    If you have any questions, feel free to reach out to me at [chauhk88@gmail.com](mailto:chauhk88@gmail.com).
     http://github.com/georgecho98
+
+    The demostration link is 
+    https://app.screencastify.com/v3/watch/blSpQkxkHPqplD46Fh5s
