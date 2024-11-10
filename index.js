@@ -17,26 +17,25 @@ const questions = [
         name: "description",
         message: "Please provide the following infomration: description.",
     },
-  ,
     {   type:"input",
         name: "installation",
         message: "Installation instruction",
     },
 
     {   type:"input",
-        name: "Usage",
+        name: "usage",
         message: "Usage information",
     },
     {   type:"input",
-        name: "Contribution",
+        name: "contribution",
         message: "Contribution Guidelines",
     },
     {   type:"input",
-        name: "Test",
+        name: "test",
         message:"Test instructions",
     },
     {   type:"input",
-        name: "License",
+        name: "license",
         message: "License",
     },  
     {   type:"input",
@@ -79,24 +78,24 @@ function init(x) {
     - [Questions](#questions)
 
     ## Installation
-    ${response.Installation}
+    ${response.installation}
 
     ## Usage
-    ${response.Usage}
+    ${response.usage}
 
     ## License
-    ${response.License}
+    ${response.license}
 
     ## Contributing
-    ${response.Contribution}
+    ${response.contribution}
 
     ## Tests
-    ${response.Test}
+    ${response.test}
 
     ## Questions
     
-    If you have any questions, feel free to reach out to me at [${response.email}](mailto:${response.email}).`
-    `http://github.com/${username}`;
+    If you have any questions, feel free to reach out to me at [${response.email}](mailto:${response.email}).
+    http://github.com/${response.username}`;
     
     writeToFile('readme.md', content);
     })

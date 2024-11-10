@@ -1,6 +1,6 @@
-# sdf
+# God Readme Generator
     ## Description
-    sdff
+    This is a quick readme generator apps. Prompt the user to input info, and write to a readme file automatically. It is very useful.
     
     ## Table of Contents
     - [Installation](#installation)
@@ -11,19 +11,21 @@
     - [Questions](#questions)
 
     ## Installation
-    sdf
+    npm install, npm install inquiry, run the file with node index.js
 
     ## Usage
-    undefined
+    The user can input info from node.js java environment without using the browser. It is very convenient. 
 
     ## License
-    undefined
+    no license
 
     ## Contributing
-    undefined
+    Any teammates using the apps can request to update the code, once get approve, he can git push to the repository. 
 
     ## Tests
-    undefined
+    JUst run node index.js to input the data, and open the readme file to check. 
 
     ## Questions
-    If you have any questions, feel free to reach out to me at [fse](mailto:fse).
+    
+    If you have any questions, feel free to reach out to me at [chaugeorge9@gmail.com](mailto:chaugeorge9@gmail.com).
+    http://github.com/georgecho98
