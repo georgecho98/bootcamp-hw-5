@@ -94,7 +94,10 @@ function init(x) {
     ${response.Test}
 
     ## Questions
-    If you have any questions, feel free to reach out to me at [${response.email}](mailto:${response.email}).`;
+    
+    If you have any questions, feel free to reach out to me at [${response.email}](mailto:${response.email}).`
+    `http://github.com/${username}`;
+    
     writeToFile('readme.md', content);
     })
 
